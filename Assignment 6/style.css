@@ -1,0 +1,119 @@
+/* this is the css code*/
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(230, 223, 223);
+}
+.All {
+  background-color: rgb(223, 245, 200);
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+.header {
+  width: 100%;
+  height: 60px;
+  border: 2px solid green;
+  background-color: rgb(151, 207, 193);
+}
+.header > h1 {
+  display: block;
+  float: left;
+  font-size: 35px;
+  font-weight: 300px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  margin: 12px 10px 0 0;
+  padding-left: 10px;
+}
+.a {
+  color: rgb(224, 183, 0);
+}
+ul {
+  list-style: none;
+  display: block;
+  float: right;
+  margin: 0 auto;
+  width: fit-content;
+}
+li {
+  float: left;
+  padding: 10px;
+  margin: 12px 10px 0 0;
+}
+ul li a {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+}
+.photo {
+  width: 100%;
+  height: 400px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.get {
+  font-size: 23px;
+}
+.anl {
+  text-decoration: none;
+}
+/* this is the footer code*/
+.footer {
+  width: 100%;
+  height: 60px;
+  border: 2px solid green;
+  background-color: rgb(151, 207, 193);
+}
+.footer > p {
+  text-align: center;
+  margin: 14px 10px 0 0;
+  font-size: 20px;
+  color: white;
+}
+/* this is the form code*/
+.form {
+  width: 50%;
+  height: 670px;
+  background-color: rgb(151, 207, 193);
+  margin: 0 auto;
+  padding: 40px 0 0 40px;
+}
+form > label {
+  font-weight: 500;
+  color: rgb(29, 28, 28);
+  font-size: x-large;
+}
+.input {
+  font-weight: 70px;
+  border-radius: 7px;
+  width: 85%;
+  height: 40px;
+  font-size: medium;
+  padding: 10px;
+}
+.message {
+  border-radius: 7px;
+  width: 85%;
+  height: 50px;
+  font-size: medium;
+  padding: 10px;
+}
+.submite {
+  width: 90%;
+  font-weight: 40px;
+  height: 35px;
+  border-radius: 7px;
+  background-color: rgb(10, 71, 10);
+  color: white;
+  font-size: medium;
+}
+/* this is the table code*/
+table {
+  width: 100%;
+  background-color: rgb(151, 207, 193);
+  border-spacing: 0;
+}
