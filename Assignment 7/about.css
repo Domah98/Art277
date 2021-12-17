@@ -1,0 +1,151 @@
+/* this is the services.html code*/
+.about {
+  margin: 3px 0 0 0;
+  width: 100%;
+  height: 100px;
+  background-color: rgb(78, 201, 201);
+}
+.about > h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+  font-weight: 200;
+  color: white;
+  margin: 0 0 0 0;
+  padding-top: 20px;
+}
+.program {
+  width: 100%;
+  height: auto;
+  background-color: rgb(216, 211, 211);
+}
+.One {
+  padding: 9px;
+}
+.One > h1 {
+  font-size: 30px;
+}
+.diva {
+  width: 100%;
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+}
+.Servicesone {
+  width: 47%;
+  height: 450px;
+  display: inline-block;
+  padding: 8px;
+}
+.Play {
+  width: 47%;
+  height: 450px;
+  display: inline-block;
+  padding: 8px;
+  margin-top: 5px;
+}
+/*  the services.html  css code end here*/
+/* this is the about css code*/
+.history {
+  background-color: rgb(216, 211, 211);
+}
+.ourschool > p,
+h2 {
+  margin: 10px;
+}
+.whyus {
+  display: inline-block;
+  width: 100%;
+  height: 240px;
+  margin-top: 5px;
+  border-spacing: 20px;
+}
+.us {
+  display: inline-block;
+  width: 334px;
+  height: 230px;
+  margin-top: 5px;
+  padding: 10px;
+}
+.us > h2 {
+  text-align: center;
+}
+.ourteam {
+  display: inline-block;
+  width: 100%;
+  height: 240px;
+  margin-top: 5px;
+  border-spacing: 20px;
+}
+.team {
+  display: inline-block;
+  width: 246px;
+  height: 250px;
+  margin-top: 0px;
+  padding: 10px;
+}
+.ourteam > h2 {
+  margin: 10px;
+}
+.team > img {
+  border: 2px solid rgb(216, 211, 211);
+  border-radius: 50%;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  margin: 6px 0 0px 20px;
+}
+.team > h2 {
+  text-align: center;
+  color: rgb(43, 41, 41);
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+}
+.about2 {
+  background-color: rgb(216, 211, 211);
+}
+.about2 > h1 {
+  text-align: center;
+  font-size: 40px;
+}
+.about2 > p {
+  margin: 10px;
+}
+
+.form {
+  width: 50%;
+  height: 670px;
+  background-color: rgb(216, 211, 211);
+  margin: 0 auto;
+  padding: 40px 0 0 40px;
+  margin-top: 5px;
+}
+form > label {
+  font-weight: 500;
+  color: rgb(29, 28, 28);
+  font-size: x-large;
+}
+.input {
+  font-weight: 70px;
+  border-radius: 7px;
+  width: 85%;
+  height: 40px;
+  font-size: medium;
+  padding: 10px;
+}
+.message {
+  border-radius: 7px;
+  width: 85%;
+  height: 70px;
+  font-size: medium;
+  padding: 10px;
+}
+.submite {
+  width: 30%;
+  font-weight: 40px;
+  height: 35px;
+  border-radius: 7px;
+  background-color: rgb(220, 20, 60);
+  color: white;
+  font-size: medium;
+}
